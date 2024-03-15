@@ -19,3 +19,11 @@ This script continuously monitors a specified file for changes. When changes are
 4. **Execution**: Run the script using the following command:
    ```bash
    ./fw.sh
+
+## Output
+
+The script continuously monitors the specified file. It updates the status file (gstat.txt) with information about any alterations made to the monitored file.
+
+   - File Available
+   - Alteration: Data Updated at <timestamp>
+   - Script exited after 18:00 in <timezone>
