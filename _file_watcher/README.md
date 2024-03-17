@@ -23,7 +23,7 @@ This script continuously monitors a specified file for changes. When changes are
 ## Output
 
 The script continuously monitors the specified file. It updates the status file (gstat.txt) with information about any alterations made to the monitored file.
-
+   
    - File Available
    - Alteration: Data Updated at `_time_stamp`
    - Script exited after 18:00 in `_time_zone`
