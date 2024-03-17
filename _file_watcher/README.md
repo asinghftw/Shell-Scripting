@@ -27,3 +27,8 @@ The script continuously monitors the specified file. It updates the status file 
    - File Available
    - Alteration: Data Updated at `_time_stamp`
    - Script exited after 18:00 in `_time_zone`
+
+## Author
+
+   - Author: asinghftw
+   - Date: Mar 15, 2024

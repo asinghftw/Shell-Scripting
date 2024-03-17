@@ -40,5 +40,5 @@ You can configure the script by modifying the following variables:
 
 ## Author
 
-Author: asinghftw
-Date: Mar 15, 2024
+   - Author: asinghftw
+   - Date: Mar 17, 2024
