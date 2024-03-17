@@ -5,11 +5,11 @@ Author: asinghftw
 Date: Mar17, 2024
 '
 
-_watch_dir="/Users/striver/learning_module/shell_script/schedular_log/shell"
+_watch_dir="/asinghftw/shell_script/_file_watcher"
 _looking_file="fvr.csv"
 #Indian Standard time (IST)
 _time_zone="Asia/Kolkata"
-LOG_DIR="/Users/striver/learning_module/shell_script/schedular_log/shell"
+LOG_DIR="/asinghftw/shell_script/schedular_log"
 #1MB
 LOG_ROTATE_THRS=1000000
 LOG_NUM=1

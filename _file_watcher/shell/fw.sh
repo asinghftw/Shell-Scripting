@@ -5,7 +5,7 @@ Author: asinghftw
 Date: Mar15, 2024
 '
 
-_watch_dir="/asinghftw/Shell Scripting/_file_watcher"
+_watch_dir="/asinghftw/shell_script/_file_watcher"
 _grab_stat="gstat.txt"
 _looking_file="fvr.csv"
 #Indian Standard time (IST)
